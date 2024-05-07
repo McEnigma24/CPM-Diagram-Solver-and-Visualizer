@@ -1,0 +1,9 @@
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\bin\Release\Badania Operacyjne - Projekt.exe.config
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\bin\Release\Badania Operacyjne - Projekt.exe
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\bin\Release\Badania Operacyjne - Projekt.pdb
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\obj\Release\Badania_Operacyjne___Projekt.Form1.resources
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\obj\Release\Badania_Operacyjne___Projekt.Properties.Resources.resources
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\obj\Release\Badania Operacyjne - Projekt.csproj.GenerateResource.cache
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\obj\Release\Badania Operacyjne - Projekt.csproj.CoreCompileInputs.cache
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\obj\Release\Badania Operacyjne - Projekt.exe
+S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt\obj\Release\Badania Operacyjne - Projekt.pdb
